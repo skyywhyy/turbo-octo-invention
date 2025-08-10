@@ -1,0 +1,16 @@
+.button{
+  position: relative;
+  background-color: beige;
+  color: black;
+  border: white 1px solid;
+  border-radius: 5px;
+}
+.primary{
+  transform-origin: 0 0;
+  background-color: black;
+  color: #ffffff;
+}
+.secondary{
+  background-color : gray;
+  color: white;
+}
